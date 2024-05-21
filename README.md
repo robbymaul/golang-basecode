@@ -1,3 +1,4 @@
+```
 📦basecode-golang
  ┣ 📂config
  ┃ ┣ 📜database.go
